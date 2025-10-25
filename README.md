@@ -109,12 +109,6 @@ You can customize colors, spacing, and fonts easily within `style.css`.
 
 ---
 
-## Contributors
-
-* [Your Name] – Creator & Developer
-
----
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute it with attribution.
